@@ -13,6 +13,7 @@ end
    
    array.each do |name|
      newarray.push ("Hello, my name is #{name}.")
+   end 
    
    it 'should return a list of badge messages' do
       expect(batch_badge_creator(attendees)).to eq(badges)
