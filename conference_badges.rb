@@ -12,7 +12,7 @@ end
    newarray = []
    
    array.each do |name|
-     
+     newarray.push
    
    "Hello, my name is #{name}."
    
