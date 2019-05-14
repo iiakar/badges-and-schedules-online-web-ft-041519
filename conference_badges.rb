@@ -13,6 +13,8 @@ end
    
    
    
+   "Hello, my name is #{name}."
+   
    it 'should return a list of badge messages' do
       expect(batch_badge_creator(attendees)).to eq(badges)
     end
