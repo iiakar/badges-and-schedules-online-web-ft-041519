@@ -1,5 +1,4 @@
 
-badges_and_room_assignments = []
 
 
 
