@@ -11,7 +11,7 @@ end
  def batch_badge_creator(name)
    array = []
    
-   
+   array.each do |name|
    
    "Hello, my name is #{name}."
    
